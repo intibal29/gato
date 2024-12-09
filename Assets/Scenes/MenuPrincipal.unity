@@ -188,12 +188,12 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 165630033}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
+        m_TargetAssemblyTypeName: Salir, Assembly-CSharp
+        m_MethodName: SalirDelJuego
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -255,8 +255,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 28, y: -460}
-  m_SizeDelta: {x: 36.3959, y: 20.1895}
+  m_AnchoredPosition: {x: -29, y: -216}
+  m_SizeDelta: {x: 36.0164, y: 19.8432}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &165630033
 MonoBehaviour:
@@ -707,8 +707,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 4.72, y: 289.4894}
-  m_SizeDelta: {x: 45.8204, y: 21.0851}
+  m_AnchoredPosition: {x: -28, y: 283}
+  m_SizeDelta: {x: 39.5648, y: 19.5487}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1877740219
 MonoBehaviour:
@@ -755,12 +755,12 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1877740222}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
+        m_TargetAssemblyTypeName: Jugar, Assembly-CSharp
+        m_MethodName: IrAlJuego
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -851,8 +851,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.10000038, y: -0.8999996}
-  m_SizeDelta: {x: -33.01582, y: -13.9644}
+  m_AnchoredPosition: {x: -0.10000038, y: -1.00912}
+  m_SizeDelta: {x: -33.01582, y: -13.98996}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1942420096
 MonoBehaviour:
@@ -1030,8 +1030,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1982856018}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.0221, y: -0.0182, z: 0.19}
-  m_LocalScale: {x: 0.53444475, y: 1.324596, z: 1}
+  m_LocalPosition: {x: -0.0392, y: 0.0186, z: 0.19}
+  m_LocalScale: {x: 0.6006789, y: 1.3802063, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
